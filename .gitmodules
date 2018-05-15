@@ -1,0 +1,6 @@
+[submodule "study_opengles"]
+	path = study_opengles
+	url = https://github.com/longweicain/study_opengles.git
+[submodule "study_cpp11"]
+	path = study_cpp11
+	url = https://github.com/longweicain/study_cpp11.git
